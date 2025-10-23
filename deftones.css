@@ -809,43 +809,43 @@ body {
 
 /* ===== Album-specific colors and images ===== */
 .private-music {
-    background: url('img/private.jpeg') no-repeat center center/cover;
+    background: url('private.jpeg') no-repeat center center/cover;
 }
 
 .ohms {
-    background: url('img/omns.jpg') no-repeat center center/cover;
+    background: url('omns.jpg') no-repeat center center/cover;
 }
 
 .gore {
-    background: url('img/gore.jpeg') no-repeat center center/cover;
+    background: url('gore.jpeg') no-repeat center center/cover;
 }
 
 .koi {
-    background: url('img/koi.jpeg') no-repeat center center/cover;
+    background: url('koi.jpeg') no-repeat center center/cover;
 }
 
 .diamond {
-    background: url('img/eyes.jpeg') no-repeat center center/cover;
+    background: url('eyes.jpeg') no-repeat center center/cover;
 }
 
 .saturday {
-    background: url('img/satur.jpeg') no-repeat center center/cover;
+    background: url('satur.jpeg') no-repeat center center/cover;
 }
 
 .self-titled {
-    background: url('img/deftonesa.jpeg') no-repeat center center/cover;
+    background: url('deftonesa.jpeg') no-repeat center center/cover;
 }
 
 .white-pony {
-    background: url('img/white.jpeg') no-repeat center center/cover;
+    background: url('white.jpeg') no-repeat center center/cover;
 }
 
 .around-fur {
-    background: url('img/aro.jpeg') no-repeat center center/cover;
+    background: url('aro.jpeg') no-repeat center center/cover;
 }
 
 .adrenaline {
-    background: url('img/adre.jpeg') no-repeat center center/cover;
+    background: url('adre.jpeg') no-repeat center center/cover;
 }
 
 .album-info {
